@@ -3,8 +3,9 @@
 <head>
   <meta charset="<?php bloginfo( 'charset' ); ?>">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
   <title> <?php wp_title(); ?> </title>
+  <link rel="profile" href="http://gmpg.org/xfn/11" />
+  <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
   <meta content="" name="description">
   <meta content="" name="keywords">
 
