@@ -4,7 +4,7 @@
   <meta charset="<?php bloginfo( 'charset' ); ?>">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Tempo Bootstrap Template - Index</title>
+  <title> <?php wp_title(); ?> </title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
